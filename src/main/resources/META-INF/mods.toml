@@ -1,0 +1,12 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="All rights reserved"
+[[mods]]
+modId="nbamod"
+version="${file.jarVersion}"
+displayName="NBA Mod"
+credits="Larry Bird, Earvin Johnson"
+authors="bartacus"
+description='''
+NBA Action...It's Fantasic.
+'''
